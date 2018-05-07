@@ -1,0 +1,41 @@
+lina-meyer:
+  name: Lina's Home
+  description: Nice flat in a Shanghai
+  city_name: "Shanghai, in China"
+  city_slug: "shanghai"
+  wifi: true
+  rating: 1
+
+lerajaro:
+  name: Raff's Home
+  description: Even Nicer flat in Berlin
+  city_name: "Berlin, in Germany"
+  city_slug: "berlin"
+  wifi: true
+  rating: 5
+
+ssaunier:
+  name: Seb's Home
+  description: Even Nicer flat in Paris
+  city_name: "Paris, in France"
+  city_slug: "paris"
+  wifi: true
+  rating: 3
+
+papillard:
+  name: Boris's Home
+  description: Even Nicer flat in Bruxelles
+  city_name: "Bruxelles, in Belgium"
+  city_slug: "bruxelles"
+  wifi: true
+  rating: 4
+
+lerajaro:
+  name: Boris's Second Home
+  description: Even Nicer flat in Amsterdam
+  city_name: "Amsterdam, in Netherlands"
+  city_slug: "amsterdam"
+  wifi: true
+  rating: 2
+
+
